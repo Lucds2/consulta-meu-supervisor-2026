@@ -1,0 +1,163 @@
+/* Variáveis de Cores Suaves */
+:root {
+  --bg-principal: #FDFBF7;
+  --texto-marrom: #4E342E;
+  --verde-suave-bg: #E8F5E9;
+  --verde-suave-texto: #2E7D32;
+  --laranja-suave-bg: #FFF3E0;
+  --laranja-suave-texto: #E65100;
+  --borda-suave: #D7CCC8;
+}
+
+body {
+  background-color: var(--bg-principal);
+  color: var(--texto-marrom);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 100%;
+  max-width: 550px;
+  margin: 20px auto;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 30px;
+  border-bottom: 2px solid var(--laranja-suave-bg);
+  padding-bottom: 20px;
+}
+
+.header h1 {
+  font-size: 1.6rem;
+  color: var(--verde-suave-texto);
+  margin: 0 0 8px 0;
+}
+
+.logo-app {
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 0 auto 15px auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border: 3px solid var(--verde-suave-texto);
+  display: block;
+}
+
+.search-section {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-bottom: 30px;
+}
+
+.select-name {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.select-field {
+  padding: 14px;
+  font-size: 1rem;
+  border: 1px solid var(--borda-suave);
+  border-radius: 8px;
+  background-color: white;
+  outline: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.select-field:focus {
+  border-color: var(--verde-suave-texto);
+  box-shadow: 0 0 0 3px rgba(46, 125, 50, 0.15);
+}
+
+.btn-limpar {
+  background-color: transparent;
+  color: #795548;
+  border: 1px solid var(--borda-suave);
+  padding: 12px;
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 100%;
+  transition: all 0.2s ease;
+}
+
+.btn-limpar:hover {
+  background-color: var(--laranja-suave-bg);
+  border-color: var(--laranja-suave-texto);
+}
+
+/* Cartão com Efeito Glassmorphism */
+.card-designacao {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 16px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 8px 32px 0 rgba(141, 110, 99, 0.15);
+}
+
+.card-designacao p {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.nome-destaque {
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: var(--texto-marrom);
+}
+
+.icon-card {
+  color: var(--verde-suave-texto);
+  margin-right: 12px;
+  min-width: 20px;
+}
+
+.link-telefone {
+  color: var(--verde-suave-texto);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.escala-item {
+  border-left: 4px solid var(--laranja-suave-texto);
+  background-color: #FAF8F5;
+  padding: 12px;
+  margin-top: 10px;
+  border-radius: 0 10px 10px 0;
+}
+
+.mensagem-vazio {
+  text-align: center;
+  padding: 20px;
+  color: #795548;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 0.85rem;
+  color: #A1887F;
+}
+
+/* Responsividade Básica */
+@media (min-width: 500px) {
+  .select-name {
+    flex-direction: row;
+  }
+}

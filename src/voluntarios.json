@@ -1,0 +1,415 @@
+[
+  {
+    "nome": "Anderson Costa",
+    "congregacao": "Jardim Industrial - Araucária PR",
+    "celular": "+55 41 98410-4732",
+    "email": "andersonjw.costa@gmail.com",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "12:10 às 13:35", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sexta Feira", "horario": "15:30 às 18:00", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sábado", "horario": "08h às 09:20", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sábado", "horario": "12:10 às 13:35", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sábado", "horario": "16:30 às 18:00", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Domingo", "horario": "08h às 09:20", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "12:10 às 13:35", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "15:45 às 18:00", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" }
+    ]
+  },
+  {
+    "nome": "Aparecido Andrade",
+    "congregacao": "Icapara - Iguape SP",
+    "celular": "+55 11 98182-0048",
+    "email": "vendas@ceramicavrdamiao.com.br",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "12:10 às 13:35", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sexta Feira", "horario": "15:30 às 18:00", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sábado", "horario": "08h às 09:20", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sábado", "horario": "12:10 às 13:35", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sábado", "horario": "16:30 às 18:00", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Domingo", "horario": "08h às 09:20", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "12:10 às 13:35", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" }
+    ]
+  },
+  {
+    "nome": "Bruno Silva",
+    "congregacao": "Madureira - Ponta Grossa PR",
+    "celular": "+55 42 98804-6801",
+    "email": "brunopriscilasilva@outlook.com",
+    "escalas": [
+      { "dia": "Sábado", "horario": "08h às 09:20", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sábado", "horario": "12:10 às 13:35", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" }
+    ]
+  },
+  {
+    "nome": "Carlos Rivero",
+    "congregacao": "Flamboyant - Curitiba PR",
+    "celular": "+55 41 99198-5779",
+    "email": "montesinotj.rr@gmail.com",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "08h às 09:20", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sexta Feira", "horario": "12:10 às 13:35", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" }
+    ]
+  },
+  {
+    "nome": "Carlos Silveira",
+    "congregacao": "Ferroviários - Curitiba PR",
+    "celular": "+55 41 98727-4545",
+    "email": "carlosclaudiana.silveira@gmail.com",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "15:30 às 18:00", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" }
+    ]
+  },
+  {
+    "nome": "Claudinei Silva",
+    "congregacao": "Estados - Fazenda Rio Grande PR",
+    "celular": "+55 41 99540-9330",
+    "email": "claudineislv1375@gmail.com",
+    "escalas": [
+      { "dia": "Sábado", "horario": "08h às 09:20", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sábado", "horario": "12:10 às 13:35", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Domingo", "horario": "08h às 09:20", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "12:10 às 13:35", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" }
+    ]
+  },
+  {
+    "nome": "David Afonso",
+    "congregacao": "Flamboyant - Curitiba PR",
+    "celular": "+55 41 99778-1496",
+    "email": "David.affonso1218@gmail.com",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "08h às 09:20", "setor": "Gramado", "posicao": "Estádio" },
+      { "dia": "Sexta Feira", "horario": "12:10 às 13:35", "setor": "Gramado", "posicao": "Estádio" },
+      { "dia": "Sexta Feira", "horario": "15:30 às 18:00", "setor": "Gramado", "posicao": "Estádio" },
+      { "dia": "Sábado", "horario": "08h às 09:20", "setor": "Gramado", "posicao": "Estádio" },
+      { "dia": "Sábado", "horario": "12:10 às 13:35", "setor": "Gramado", "posicao": "Estádio" },
+      { "dia": "Sábado", "horario": "16:30 às 18:00", "setor": "Gramado", "posicao": "Estádio" },
+      { "dia": "Domingo", "horario": "08h às 09:20", "setor": "Gramado", "posicao": "Estádio" },
+      { "dia": "Domingo", "horario": "12:10 às 13:35", "setor": "Gramado", "posicao": "Estádio" }
+    ]
+  },
+  {
+    "nome": "Divaldo Moreno",
+    "congregacao": "Jardim Pinheiros - Curitiba PR",
+    "celular": "+55 41 99175-7919",
+    "email": "divaldomoreno@hotmail.com",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "08h às 09:20", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sexta Feira", "horario": "12:10 às 13:35", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sábado", "horario": "12:10 às 13:35", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Domingo", "horario": "12:10 às 13:35", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" }
+    ]
+  },
+  {
+    "nome": "Fernandes Santos",
+    "congregacao": "Central - Mandirituba PR",
+    "celular": "+55 41 98451-8350",
+    "email": "fernandes202068@gmail.com",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "08h às 09:20", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sexta Feira", "horario": "12:10 às 13:35", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sexta Feira", "horario": "15:30 às 18:00", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Domingo", "horario": "08h às 09:20", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Domingo", "horario": "12:10 às 13:35", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Domingo", "horario": "15:45 às 18:00", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" }
+    ]
+  },
+  {
+    "nome": "Gilson Mendes",
+    "congregacao": "Bertioga - Paranaguá PR",
+    "celular": "+55 41 98509-0555",
+    "email": "drodriguess.tj@gmail.com",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "08h às 09:20", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sexta Feira", "horario": "12:10 às 13:35", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sábado", "horario": "08h às 09:20", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sábado", "horario": "12:10 às 13:35", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Domingo", "horario": "08h às 09:20", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Domingo", "horario": "12:10 às 13:35", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" }
+    ]
+  },
+  {
+    "nome": "Giovane Vieira",
+    "congregacao": "Flamboyant - Curitiba PR",
+    "celular": "+55 41 99863-5611",
+    "email": "giovaninv80@gmail.com",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "08h às 09:20", "setor": "Gramado", "posicao": "Estádio" },
+      { "dia": "Sexta Feira", "horario": "12:10 às 13:35", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sábado", "horario": "08h às 09:20", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "12:10 às 13:35", "setor": "Gramado", "posicao": "Estádio" },
+      { "dia": "Sexta Feira", "horario": "15:30 às 18:00", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sábado", "horario": "16:30 às 18:00", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "08h às 09:20", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" }
+    ]
+  },
+  {
+    "nome": "Gustavo Santos",
+    "congregacao": "Planta Deodoro - Piraquara PR",
+    "celular": "+55 41 99586-6382",
+    "email": "g.crujenski@gmail.com",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "15:30 às 18:00", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sábado", "horario": "12:10 às 13:35", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sábado", "horario": "16:30 às 18:00", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "08h às 09:20", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Domingo", "horario": "15:45 às 18:00", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" }
+    ]
+  },
+  {
+    "nome": "Jean Godinho",
+    "congregacao": "Itaqui - Campo Largo PR",
+    "celular": "+55 41 99166-3051",
+    "email": "debora.dfg10@gmail.com",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "08h às 09:20", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sexta Feira", "horario": "15:30 às 18:00", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Domingo", "horario": "12:10 às 13:35", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "15:45 às 18:00", "setor": "Gramado", "posicao": "Estádio" }
+    ]
+  },
+  {
+    "nome": "Joaquim Almeida",
+    "congregacao": "Central - Campo Magro PR",
+    "celular": "+55 41 99726-8357",
+    "email": "joaquimcarlosalmeida1@gmail.com",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "08h às 09:20", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sexta Feira", "horario": "12:10 às 13:35", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" }
+    ]
+  },
+  {
+    "nome": "Johnata Morais",
+    "congregacao": "Vila Tecnológica - Curitiba PR",
+    "celular": "+55 41 99582-4181",
+    "email": "johnatasumitomo@gmail.com",
+    "escalas": [
+      { "dia": "Sábado", "horario": "16:30 às 18:00", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" }
+    ]
+  },
+  {
+    "nome": "José Silva",
+    "congregacao": "Itaiópolis - SC",
+    "celular": "+55 95 99154-3643",
+    "email": "juliolulamolusco@gmail.com",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "08h às 09:20", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sexta Feira", "horario": "12:10 às 13:35", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sexta Feira", "horario": "15:30 às 18:00", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sábado", "horario": "08h às 09:20", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sábado", "horario": "12:10 às 13:35", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sábado", "horario": "16:30 às 18:00", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "08h às 09:20", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "12:10 às 13:35", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" }
+    ]
+  },
+  {
+    "nome": "Juarez Cruz",
+    "congregacao": "Boqueirão - Curitiba PR",
+    "celular": "+55 41 99681-1994",
+    "email": "juarez.ribeiro.cruz@gmail.com",
+    "escalas": [
+      { "dia": "Domingo", "horario": "08h às 09:20", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "15:45 às 18:00", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" }
+    ]
+  },
+  {
+    "nome": "Luiz Carlos Avilar",
+    "congregacao": "Jardim Bela Vista - Araucária PR",
+    "celular": "+55 41 99806-6596",
+    "email": "luizcarlosavilar@gmail.com",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "08h às 09:20", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sexta Feira", "horario": "15:30 às 18:00", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sábado", "horario": "08h às 09:20", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sábado", "horario": "16:30 às 18:00", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Domingo", "horario": "12:10 às 13:35", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "15:45 às 18:00", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" }
+    ]
+  },
+  {
+    "nome": "Luiz Silva",
+    "congregacao": "Central - Araucária PR",
+    "celular": "+55 41 99875-1913",
+    "email": "luizcarlos.bilu@icloud.com",
+    "escalas": [
+      { "dia": "Sábado", "horario": "16:30 às 18:00", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Domingo", "horario": "08h às 09:20", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "12:10 às 13:35", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" }
+    ]
+  },
+  {
+    "nome": "Marcio Antunes",
+    "congregacao": "São Luiz do Purunã - Balsa Nova PR",
+    "celular": "+55 41 99650-3291",
+    "email": "gabiduantunes20@gmail.com",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "15:30 às 18:00", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sábado", "horario": "08h às 09:20", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sábado", "horario": "12:10 às 13:35", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "15:45 às 18:00", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" }
+    ]
+  },
+  {
+    "nome": "Marcos Lalier",
+    "congregacao": "Hauer - Curitiba PR",
+    "celular": "+55 11 95079-9250",
+    "email": "m_lalier@hotmail.com",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "08h às 09:20", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sexta Feira", "horario": "12:10 às 13:35", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sexta Feira", "horario": "15:30 às 18:00", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sábado", "horario": "12:10 às 13:35", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sábado", "horario": "16:30 às 18:00", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Domingo", "horario": "08h às 09:20", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "12:10 às 13:35", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "15:45 às 18:00", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" }
+    ]
+  },
+  {
+    "nome": "Mateus Sfeir",
+    "congregacao": "Central - Paranaguá PR",
+    "celular": "+55 41 99233-3052",
+    "email": "matheus.sfeir@hotmail.com",
+    "escalas": [
+      { "dia": "Sábado", "horario": "16:30 às 18:00", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "15:45 às 18:00", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" }
+    ]
+  },
+  {
+    "nome": "Nilton Santos",
+    "congregacao": "Central - Piraquara PR",
+    "celular": "+55 41 98507-4639",
+    "email": "niltonkromus@hotmail.com",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "08h às 09:20", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sexta Feira", "horario": "12:10 às 13:35", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sábado", "horario": "08h às 09:20", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sábado", "horario": "12:10 às 13:35", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sábado", "horario": "16:30 às 18:00", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "08h às 09:20", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "12:10 às 13:35", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Domingo", "horario": "15:45 às 18:00", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" }
+    ]
+  },
+  {
+    "nome": "Nícolas Paulo",
+    "congregacao": "Espanhola (Central) - Curitiba PR",
+    "celular": "+55 41 99635-0763",
+    "email": "nicolas.paulo7@gmail.com",
+    "escalas": [
+      { "dia": "Domingo", "horario": "08h às 09:20", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "12:10 às 13:35", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" }
+    ]
+  },
+  {
+    "nome": "Olivier Pinheira",
+    "congregacao": "Parque Barigui - Curitiba PR",
+    "celular": "+55 41 99842-2414",
+    "email": "olivier.pinheira@hotmail.com",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "08h às 09:20", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sábado", "horario": "08h às 09:20", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "15:45 às 18:00", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" }
+    ]
+  },
+  {
+    "nome": "Osmar Albrecht",
+    "congregacao": "Pilarzinho - Curitiba PR",
+    "celular": "+55 41 98720-8157",
+    "email": "osmar@oem.net.br",
+    "escalas": [
+      { "dia": "Sábado", "horario": "08h às 09:20", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" }
+    ]
+  },
+  {
+    "nome": "Osmar Campos",
+    "congregacao": "Areia Branca - Mandirituba PR",
+    "celular": "+55 41 99588-9523",
+    "email": "osmarcampos72@gmail.com",
+    "escalas": [
+      { "dia": "Sábado", "horario": "16:30 às 18:00", "setor": "Primeiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sexta Feira", "horario": "08h às 09:20", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sexta Feira", "horario": "12:10 às 13:35", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sexta Feira", "horario": "15:30 às 18:00", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sábado", "horario": "08h às 09:20", "setor": "Primeiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sábado", "horario": "12:10 às 13:35", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Domingo", "horario": "08h às 09:20", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Domingo", "horario": "12:10 às 13:35", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Domingo", "horario": "15:45 às 18:00", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" }
+    ]
+  },
+  {
+    "nome": "Pablo França",
+    "congregacao": "Central - Fazenda Rio Grande PR",
+    "celular": "+55 41 99969-2898",
+    "email": "pablobfranca97@gmail.com",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "08h às 09:20", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sexta Feira", "horario": "15:30 às 18:00", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" }
+    ]
+  },
+  {
+    "nome": "Rodrigo Aguiar",
+    "congregacao": "Cidade Jardim - São José dos Pinhais PR",
+    "celular": "+55 41 98526-5374",
+    "email": "diguelo@hotmail.com",
+    "escalas": [
+      { "dia": "Sábado", "horario": "08h às 09:20", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sábado", "horario": "12:10 às 13:35", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Sábado", "horario": "16:30 às 18:00", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" }
+    ]
+  },
+  {
+    "nome": "Sandro Oliveira",
+    "congregacao": "LS - Fazenda Rio Grande PR",
+    "celular": "+55 41 98736-6655",
+    "email": "sangon2026@gmail.com",
+    "escalas": [
+      { "dia": "Sábado", "horario": "16:30 às 18:00", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" }
+    ]
+  },
+  {
+    "nome": "Tiago Chiodi",
+    "congregacao": "Ouro Fino - São José dos Pinhais PR",
+    "celular": "+55 41 99784-3663",
+    "email": "tichiodi@gmail.com",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "12:10 às 13:35", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sexta Feira", "horario": "15:30 às 18:00", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" }
+    ]
+  },
+  {
+    "nome": "Valmir Sovierzoski",
+    "congregacao": "Itaqui - Campo Largo PR",
+    "celular": "+55 41 98821-8550",
+    "email": "valmir1956@hotmail.com",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "08h às 09:20", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sexta Feira", "horario": "12:10 às 13:35", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sábado", "horario": "08h às 09:20", "setor": "Terceiro Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sábado", "horario": "12:10 às 13:35", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sábado", "horario": "16:30 às 18:00", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Domingo", "horario": "12:10 às 13:35", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" }
+    ]
+  },
+  {
+    "nome": "Valmir Valperes",
+    "congregacao": "LS (Novo Mundo) - Curitiba PR",
+    "celular": "+55 41 98532-0360",
+    "email": "valmirvalperes@hotmail.com",
+    "escalas": [
+      { "dia": "Domingo", "horario": "08h às 09:20", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" },
+      { "dia": "Domingo", "horario": "15:45 às 18:00", "setor": "Terceiro Anel", "posicao": "Rua Coronel Dulcídio e Rua Getúlio Vargas" }
+    ]
+  },
+  {
+    "nome": "Álvaro Gabardo",
+    "congregacao": "Uberaba - Curitiba PR",
+    "celular": "+55 41 99184-9088",
+    "email": "alvarogabardo@gmail.com",
+    "escalas": [
+      { "dia": "Sexta Feira", "horario": "08h às 09:20", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" },
+      { "dia": "Sexta Feira", "horario": "15:30 às 18:00", "setor": "Segundo Anel", "posicao": "Rua Brasilio Itiberê e Rua Buenos Aires" }
+    ]
+  }
+]
